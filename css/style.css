@@ -35,5 +35,16 @@ h3 span{
 }
 
 .mid-items{
-  display: flexbox;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.flexImage{
+    height: 50px;
+  border-radius: 50%;
+  }
+
+.flexContent{
+  text-align: center;
 }
