@@ -56,5 +56,7 @@ h3 span{
   width: 400px;
   background: light blue;
   display: flex;
+  color: black;
+  justify-content: space-around;
 
 }
