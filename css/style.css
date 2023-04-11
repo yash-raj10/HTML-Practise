@@ -31,4 +31,13 @@ h3 span{
 }
 
 /* Adding the middle section */
+.mid{
+  height: 370px;
+  text-align: center;
+  background: #ccffcc;
+
+  padding-top: 5px;
+  color: black;
+}
+
 
