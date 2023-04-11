@@ -6,6 +6,10 @@
   background-image: url("/images/ranchi-bg.png");
   width: max;
   height: 380px;
+ 
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+
 }
 
 h2{
