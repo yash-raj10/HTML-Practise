@@ -50,3 +50,11 @@ h3 span{
   background: white;
 
 }
+
+.card{
+  height: 250px;
+  width: 400px;
+  background: light blue;
+  display: flex;
+
+}
