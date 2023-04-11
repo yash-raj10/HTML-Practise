@@ -42,6 +42,7 @@ h3 span{
 
 /* Adding the bottom section */
 
+/*
 .bottom{
   height: 450px;
   text-align: center;
@@ -51,10 +52,11 @@ h3 span{
 
 }
 
+*/
 .card{
   height: 250px;
   width: 400px;
-  background: light blue;
+  background: light rgb(110, 225, 250);
   display: flex;
   color: black;
   justify-content: space-around;
