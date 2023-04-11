@@ -24,3 +24,10 @@ h3 span{
   background: #00cc99 ;
   padding: 0px 10px;
 }
+
+.mid{
+  height: 370px;
+  text-align: center;
+  margin: 15px;
+  background: #ccffcc;
+}
